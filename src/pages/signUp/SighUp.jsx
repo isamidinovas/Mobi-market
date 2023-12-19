@@ -29,7 +29,6 @@ const SighUp = () => {
           <Button text="Далее" />
         </div>
       </div>
-      <div></div>
     </div>
   );
 };
